@@ -1,5 +1,5 @@
 import sys
-sys.path.append('/home/spnichol/Dropbox/youtube_tutorial/')
+sys.path.append('/home/Jean Wang/youtube/')
 from youtube_videos import youtube_search
 import pandas as pd
 import json
